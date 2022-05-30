@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @chizhavko
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently wotking with IOS ecosystem
-- 💞️ I’m looking to collaborate on something interesting
-- 📫 You can reach me in telegram.- @optisana
+- 📫 You can reach me in telegram.- @chizhavko
 
 <!---
 chizhavko/chizhavko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
